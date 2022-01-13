@@ -1,0 +1,21 @@
+[{
+  "userId": 1,
+  "id": 1,
+  "title": "Hi, My name is usman"
+},
+{
+  "userId": 2,
+  "id": 2,
+  "title": "This data is from Json file "
+},
+{
+  "userId": 3,
+  "id": 3,
+  "title": "This json is being read from network"
+},
+{
+  "userId": 4,
+  "id": 4,
+  "title": "Thank You"
+}
+]
